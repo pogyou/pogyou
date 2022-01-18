@@ -24,7 +24,7 @@ nav{
   line-height: 35px;
   height: 38px;
   margin-top: -8px;
-  background: #f3c2b5;
+  background: #cab5f3;
   border: none;
   width: 103%;
   margin-left: -8px;
@@ -58,8 +58,8 @@ nav{
     grid-template-columns: 1fr 1fr;
   }
   div.contest {
-    border: 3px solid #ea9;
-    background-color: #ffe0d9;
+    border: 3px solid #be99ee;
+    background-color: #f6d9ff;
     display: inline-block;
     border-radius: 10px;
     padding: 5px;
@@ -67,8 +67,8 @@ nav{
     width: 90%;
   }
   div.explanation {
-    border: 3px solid  #c1806f;
-    background-color: #ffe0d9;
+    border: 3px solid  #a16fc1;
+    background-color: #f6d9ff;
     display: inline-block;
     border-radius: 10px;
     padding: 5px;
@@ -76,7 +76,7 @@ nav{
     width: 90%;
   }
   .image {
-    border: 3px solid red;
+    border: 3px solid #9100ff;
     border-radius: 5px;
   }
   .column {
@@ -92,8 +92,8 @@ nav{
     font-family: "Nunitio";
   }
 a:link{
-color: red;
+color: #b400ff;
 }
 a:visited{
-color: #b28484;
+color: #b184b2;
 }
